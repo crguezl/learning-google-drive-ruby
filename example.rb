@@ -1,4 +1,5 @@
 require "rubygems"
+# see https://github.com/gimite/google-drive-ruby
 require "google_drive"
 
 # Logs in.
